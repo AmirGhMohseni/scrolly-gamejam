@@ -1,4 +1,7 @@
 # 🪨 Stone Pass
+## 📸 Screenshot
+
+![Stone Pass Gameplay](./screenshot.png)
 
 **Stone Pass** is a minimalist, skill-based mobile game where precision, timing, and strategy matter.  
 Instead of throwing stones, players *tap and strike* stones to guide them through narrow gates and challenging paths.
